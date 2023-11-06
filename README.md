@@ -3,14 +3,11 @@ Capstone Project @ Almabetter
 
 ## Introduction
 Resume Building made easy and efficient.
-A Free, Quick and Easy Way to Create Your Professional Resume.
-ResumeBuilder is created to help the users save time in building resumes.            With ResumeBuilder, a versatile resume can be made instantly with a potential from standing out of the crowd to landing the dream job.
-One can select the template best fit for the purpose, upload the good profile picture, 
-fill out the details regarding qualifications and work experience. and save the resume that is instantly built.
-As simple as that. Saving all the time and efforts to make a resume.
-One may also access the resumes pre made at any time with the My Resumes tab.
-May all your dreams come true. All the very best!    
+ ResumeBuilder offers a time-saving solution for crafting professional resumes with ease. With ResumeBuilder, you can effortlessly create a standout resume, potentially increasing your chances of securing your dream job.
 
+Choose from a selection of templates that best suit your needs, add a high-quality profile picture, input your qualifications and work experience, and instantly generate a polished resume. It's as straightforward as that, eliminating the need for extensive time and effort in the resume-building process.
+
+Additionally, access your previously created resumes at any time through the convenient "My Resumes" tab. We wish you success in achieving your aspirations and securing your dream job. Best of luck on your journey!  
 1. In this project the following are used:
 
 + React-Hook-Forms
@@ -117,10 +114,10 @@ Folder PATH listing folder src:....
 
 
 # $ Live link $
-https://resume-builder-react-app.vercel.app/
+
 
 # $ Walkthrough video link $
-https://youtu.be/YUUyH5yGVv8
+
 
 
 
