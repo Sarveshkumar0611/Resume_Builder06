@@ -114,9 +114,11 @@ Folder PATH listing folder src:....
 
 
 # $ Live link $
+https://resume-builder-app-project.netlify.app/
 
 
 # $ Walkthrough video link $
+https://www.youtube.com/watch?v=mYB6pGAStgU
 
 
 
